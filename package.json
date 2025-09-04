@@ -1,0 +1,47 @@
+{
+  "name": "arencio-vibrant-dark",
+  "displayName": "Arencio Vibrant Dark",
+  "description": "A vibrant dark theme inspired by the rich colors of Italian automotive design",
+  "version": "1.0.0",
+  "publisher": "DanyaalMajid",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark theme",
+    "vibrant",
+    "italian",
+    "automotive",
+    "arencio",
+    "orange",
+    "amoled",
+    "oled",
+    "high contrast"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arencio Vibrant Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arencio-vibrant-dark-color-theme.json"
+      }
+    ]
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#1a1a1a",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanyaalMajid/arencio-vibrant-dark-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DanyaalMajid/arencio-vibrant-dark-theme/issues"
+  },
+  "homepage": "https://github.com/DanyaalMajid/arencio-vibrant-dark-theme#readme",
+  "license": "MIT"
+}
