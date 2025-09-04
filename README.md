@@ -2,7 +2,7 @@
 
 A vibrant dark theme for Visual Studio Code inspired by the passionate colors of Italian automotive design. Experience coding with the elegance and intensity of classic Italian sports cars.
 
-![Theme Preview](images/preview.png)
+![Theme Preview](https://raw.githubusercontent.com/DanyaalMajid/arencio-vibrant-dark/main/images/preview.png)
 
 ## Features
 
@@ -33,7 +33,7 @@ A vibrant dark theme for Visual Studio Code inspired by the passionate colors of
 
 ## Feedback & Issues
 
-Found a bug or have a suggestion? Please open an issue on our [GitHub repository](https://github.com/DanyaalMajid/arencio-vibrant-dark-theme/issues).
+Found a bug or have a suggestion? Please open an issue on our [GitHub repository](https://github.com/DanyaalMajid/arencio-vibrant-dark/issues).
 
 ## Contributing
 

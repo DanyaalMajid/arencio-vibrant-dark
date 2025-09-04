@@ -37,11 +37,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DanyaalMajid/arencio-vibrant-dark-theme.git"
+    "url": "https://github.com/DanyaalMajid/arencio-vibrant-dark.git"
   },
   "bugs": {
-    "url": "https://github.com/DanyaalMajid/arencio-vibrant-dark-theme/issues"
+    "url": "https://github.com/DanyaalMajid/arencio-vibrant-dark/issues"
   },
-  "homepage": "https://github.com/DanyaalMajid/arencio-vibrant-dark-theme#readme",
+  "homepage": "https://github.com/DanyaalMajid/arencio-vibrant-dark#readme",
   "license": "MIT"
 }
